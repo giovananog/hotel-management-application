@@ -6,7 +6,9 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img src="login-page.jpeg" alt="Exemplo imagem">
+<br>
+
+<img src="login-page.jpeg" alt="">
 
 > The project's goal is to afford and application able to manage hotel environment.
 
